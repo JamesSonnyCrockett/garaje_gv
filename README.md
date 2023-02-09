@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-<img src="https://grookea.odoo.com/static/logo_oe_white.png" alt="Logo de empresa" width="200" height="60"><
+   ![alt text]([https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png](https://grookea.odoo.com/static/logo_oe_white.png" alt="Logo de empresa) "Our logo")
 </div>
 
 ## Creadores del proyecto
