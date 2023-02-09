@@ -1,3 +1,4 @@
+<center><img src="https://grookea.odoo.com/static/logo_oe_white.png" alt="Logo de empresa" width="200" height="60"></center>
 
 ## Creadores del proyecto
 
