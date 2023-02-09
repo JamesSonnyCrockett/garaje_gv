@@ -13,7 +13,7 @@ Open [https://www.odoo.com/page/download](https://www.odoo.com/page/download) pa
 
 Descarga Python<br>
 Open [https://www.python.org/downloads/](https://www.python.org/downloads/) para descarga de Python.
-![image](https://grookea.odoo.com/static/logo_oe_white.png) ![image](https://th.bing.com/th/id/OIP.zro-Uv4LJhM4mGGttTlJzQAAAA?pid=ImgDet&rs=1)
+
 
 
 ### `Proyecto final módulo Sistemas de gestión empresarial`
