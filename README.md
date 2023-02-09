@@ -1,6 +1,7 @@
 ## Creadores del proyecto
 
-José Ramón López Guillén, Francisco José Martínez Valencia
+*José Ramón López Guillén.
+*Francisco José Martínez Valencia.
 
 ### `URL de descargas`
 
