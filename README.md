@@ -1,3 +1,5 @@
+
+
 ## Creadores del proyecto
 
 <ul>
@@ -30,4 +32,17 @@ que ambos alumnos cumplen con los conocimientos necesarios en esta materia.
 ### `¿Cuántos módelos tiene implementado este módulo?`
 
 Este módulo dispone de 4 modelos, Vehículo, mecánico, consumible y revisión.
+
+`Vehículos:` Este módelo almacena los datos del vehículo, desde la matrícula, bastidor, tanto el precio de compra, como el valor venal.
+
+`Mecánico:` Este módelo almacena los datos del empleado, nombre, apellidos, fecha de inicio, fecha de cese etc.
+
+`Consumible:` Este módelo almacena los datos de los productos disponibles en la empresa, como por ejemplo nombre, descripcion disponibilidad precio etc.
+
+`Revisión:` Este modelo almacena los datos del vehículo tanto la información sobre su mantenimiento y sobre los consumibles empleados en el trabajo.
+
+**Nota: Esta información puede no coincidir con el módulo por `modificaciones de última hora`.**
+
+### `¿Cuántas vistas tiene este módulo?`
+Cada modelo dispone de una vista de árbol para poder listar los registros, y una vista formulario para poder introducir nuevos registros. Además, tenemos una vista Kanban de entrada que actua de menú principal .También disponemos de una vista de gráficos.
 
