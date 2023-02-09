@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://grookea.odoo.com/static/logo_oe_white.png" alt= "Logo de empresa" />
+  <img src="[https://grookea.odoo.com/static/logo_oe_white.png](https://raw.githubusercontent.com/JamesSonnyCrockett/garaje_gv/master/static/description/icon.png)" alt= "Logo de empresa" />
 </p>
 
 ## Creadores del proyecto
