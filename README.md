@@ -1,7 +1,9 @@
 ## Creadores del proyecto
 
-*José Ramón López Guillén.
-*Francisco José Martínez Valencia.
+<ul>
+    <li>José Ramón López Guillén</li>
+    <li>Francisco José Martínez Valencia</li>
+</ul>
 
 ### `URL de descargas`
 
@@ -10,3 +12,22 @@ Open [https://www.odoo.com/page/download](https://www.odoo.com/page/download) pa
 
 Descarga Python<br>
 Open [https://www.python.org/downloads/](https://www.python.org/downloads/) para descarga de Python.
+
+
+### `Proyecto final módulo Sistemas de gestión empresarial`
+
+Este proyecto se realiza para el final de la segunda Evaluación de DAM, donde se certifica
+que ambos alumnos cumplen con los conocimientos necesarios en esta materia.
+
+
+### `¿Qué es garaje GV?`
+
+`Garaje GV` es un módulo de Odoo para una empresa de automoción fictícia que permite gestionar tanto vehículos nuevos, usados o seminuevos, así como permite gestionar revisiones, consumibles, e incluso la plantilla de mecánicos disponibles.
+
+**Nota: Esta información puede no coincidir con el módulo por `modificaciones de última hora`.**
+
+
+### `¿Cuántos módelos tiene implementado este módulo?`
+
+Este módulo dispone de 4 modelos, Vehículo, mecánico, consumible y revisión.
+
